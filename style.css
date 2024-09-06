@@ -1,0 +1,23 @@
+.toll-bar {
+    width: 800px;
+    height: 30px;
+    margin: 30px 50px 992px 1076px;
+}
+
+.link {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 20px;
+    opacity: 0.5;
+    font-family: 'Poppins';
+    letter-spacing: normal;
+    padding-right: 50px;
+}
+
+.toll-bar a:first-child {
+    opacity: 1;
+}
+
+body {
+    background-color: #222222;
+}
